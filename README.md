@@ -1,3 +1,5 @@
+refered from : https://developer.okta.com/blog/2018/02/13/secure-spring-microservices-with-oauth
+
 # Bootiful Microservices with Spring Boot
 
 This example shows how to create a microservices architecture with Spring Boot and display its data with an Angular UI.
